@@ -3,7 +3,7 @@ import os
 import time
 
 # ===== CHANGE WORD HERE =====
-word = "SHE"
+word = "THINK"
 # ============================
 
 save_dir = f"../data/word_frames/{word}"
